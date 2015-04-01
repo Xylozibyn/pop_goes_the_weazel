@@ -1,32 +1,32 @@
 # pop_goes_the_weazel
-script
+## script
 
 
 
 
 
-Interior - The Weazel
+### Interior - The Weazel
 
 
 alarm noise
 
-close up - CHRIS opening eyes - pull out to mid close up
+* close up - **CHRIS** *opening eyes* - pull out to mid close up
 
-close - flasing lights
+* close - flasing lights
 
-close up - CHRIS eyes darting
+* close up - CHRIS eyes darting
 
-close - lights, knobs
+a. close - lights, knobs
 
-close up - CHRIS eyes darting
+b. close up - CHRIS eyes darting
 
-close - dials, switches
+c. close - dials, switches
 
-close - CHRIS panicked face scanning
+1. close - CHRIS panicked face scanning
 
-side mid shot - CHRIS panicked pressing buttons, flicking switches
+	2. side mid shot - CHRIS panicked pressing buttons, flicking switches
 
-close - CHRIS panicked face
+	3. close - CHRIS panicked face
 
 mid close - hands pressing buttons, flicking switches, clunking noise - hands freeze - screen raising noise
 
