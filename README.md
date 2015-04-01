@@ -32,7 +32,7 @@ mid close - hands pressing buttons, flicking switches, clunking noise - hands fr
 
 mid wide from behind - raising screen and CHRIS in shot.. muffled alarm
 
-close mid - CHRIS. jaw dropping
+* close mid - CHRIS. jaw dropping
 
 close - screenshield raises revealing outer space
 
